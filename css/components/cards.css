@@ -1,0 +1,29 @@
+.cards{
+  width: 75%;
+  margin: 20px auto 0px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card{
+  background-color: rgb(230,230,230);
+  border-color: rgb(230,230,230);
+  border-radius: 8px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  font-weight: lighter;
+  height: 240px;
+  width: 240px;
+  padding: 0px 10px;
+}
+.card-content{
+  text-align: center;
+  font-weight: lighter;
+}
+.card-content p{
+  margin-bottom: 0px;
+}
+.card img{
+  height: 100px;
+  margin: 15px auto;
+  display: block;
+}

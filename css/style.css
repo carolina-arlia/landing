@@ -1,0 +1,49 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&family=Roboto:wght@300&display=swap');
+
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+/* Components */
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/cards.css");
+@import url("components/footer.css");
+
+
+
+/* Fonts and Colors */
+body {
+  margin: 0px;
+  font-family: 'Roboto', sans-serif;
+  background: rgb(240,240,240);
+  color: rgb(30,30,30);
+  font-size: 14px;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Roboto Mono', monospace;
+}
+h1{
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  color: rgba(30, 30, 30, 0.863);
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: lighter;
+}
+h3 {
+  color: rgb(30,30,30);
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+
+/* Custom design below! */
