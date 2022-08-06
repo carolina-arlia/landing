@@ -1,10 +1,3 @@
-.cards{
-  width: 75%;
-  margin: 20px auto 0px auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 .card{
   background-color: rgb(230,230,230);
   border-color: rgb(230,230,230);
@@ -12,7 +5,6 @@
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   font-weight: lighter;
   height: 240px;
-  width: 240px;
   padding: 0px 10px;
 }
 .card-content{
